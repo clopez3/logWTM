@@ -19,3 +19,12 @@ puts edad
 puts multiploTres
 puts nombre
 puts apellido
+
+nombre = "Carlos".downcase
+	puts nombre
+
+nombre = "Carlos".upcase
+	puts nombre
+
+nombre = "Carlos".reverse
+	puts nombre
