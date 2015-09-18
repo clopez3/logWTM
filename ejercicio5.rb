@@ -21,7 +21,7 @@ end
 
 # Suma dos números enteros que como resultado den 5 y luego verifica si el cinco es mayor o igual a 7
 
-cinco = (3 + 2)
+cinco = 3 + 2
 
 if cinco >= 7
 	puts "¿5 es mayor que 7?"
