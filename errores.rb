@@ -9,7 +9,7 @@ puts ["hola", 2, "adiós", 7, true, 4.2, invisible].inspect # [] sirven para agr
 arreglo = ["hola", 2, "adiós", 7, true, 4.2, invisible] # variable que corresponde a un arreglo
 
 puts arreglo [4] # así se llama un valor dentro de un arreglo
-puts arreglo [5]
+puts arreglo [5] # arrancan en cero
 
 # Uso de each. Para no tener que llamar uno x uno los valores dentro de un array
 segundoArreglo = ["Carlos", "Ramiro", "Nohora", "Diego", "Daniel", "Amanda", "Mark"]
