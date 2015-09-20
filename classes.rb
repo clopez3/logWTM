@@ -1,4 +1,4 @@
-class Humano # defino la clase (molde del objeto)
+class Humano # defino la clase (molde del objeto), debe ir primera en mayúscula
 	def hablar(texto) # defino el método
 		puts "El humano dice #{texto}"
 	end
